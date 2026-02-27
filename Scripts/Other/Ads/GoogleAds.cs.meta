@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 64bfcc80b0838744d8354a581f285e1a
+timeCreated: 1519500335
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Scripts/Other/Ads/GoogleAds.cs
+  uploadId: 384150

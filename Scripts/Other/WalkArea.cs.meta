@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d74f24245fac01d42ab33c1ae8696e45
+timeCreated: 1519338429
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Scripts/Other/WalkArea.cs
+  uploadId: 384150

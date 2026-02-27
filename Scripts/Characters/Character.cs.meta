@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 90e07585bbba21946b7c79018501987f
+timeCreated: 1459270986
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Scripts/Characters/Character.cs
+  uploadId: 384150

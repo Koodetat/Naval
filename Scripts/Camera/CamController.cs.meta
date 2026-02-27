@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 50e786fe815803e4fb7ab98295f44969
+timeCreated: 1459252317
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60079
+  packageName: RTS Battle Kit
+  packageVersion: 2.4
+  assetPath: Assets/RTS Battle Kit 2.4/Assets/Scripts/Camera/CamController.cs
+  uploadId: 384150
